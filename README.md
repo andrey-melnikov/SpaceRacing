@@ -8,7 +8,7 @@ Mobile game <br ><br >
 alt="" width="150" border="10" /></a>
 <br ><br >
 **Short description**<br >
-Controll the rocket and avoid flying islands and plants
+Control the rocket and avoid flying islands and plants
 <br ><br >
 **Download game:**<br >
 [Build.apk](1.apk)
